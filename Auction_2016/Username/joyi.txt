@@ -1,0 +1,2 @@
+Antique,Jewelry,I2,Bidder,01/06/2016 03:45:19,01/06/2016 03:48:32,480.0,Reserve Auction,Winning Item
+Real Estate,Garden,I4,Bidder,01/06/2016 03:03:11,01/06/2016 11:21:27,60.0,Japanese Auction,Winning Item

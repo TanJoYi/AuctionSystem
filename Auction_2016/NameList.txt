@@ -1,0 +1,4 @@
+joyi,960526,960526-08-5540,Visa Debit Card,6304125-12-225555 (Always inform me before hand),014-4512872,joyi@siswamail.um,Yes
+programmer,helloworld,63425-12-4521,Master Card,641254-88-1254125,016-45169215,programmer@hotmail.com,Yes
+ailoon,wem150028,960145-44-4584,Master Card,45125121-112-4888,012-5412586,aillon@yahoo.com,Yes
+fariz,wem150013,960213-11-1455,Visa Electron Card,54125-188-1451224,019-48212577,fariz@gmail.com,Yes
